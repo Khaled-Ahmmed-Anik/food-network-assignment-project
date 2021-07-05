@@ -1,8 +1,10 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0px;
 }
 section{
     display: flex;
+    padding-bottom: 100px;
 }
 
 .half-align{
@@ -39,4 +41,38 @@ span{
 .top-right{
     padding-top: 40px;
 }
+
+.about-me-sec{
+    background-image: url(images/shapes/7.png) ;
+    background-size: 1320px 600px ;
+    background-repeat: no-repeat;
+
+}
+
+.about-me-sec .left{
+    text-align: center  ;
+    padding-top: 70px;
+}
+
+.about-me-sec .right{
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: justify;
+}
+
+.about-me-sec h3{
+    padding-top: 100px;
+    
+    color: #707070;
+    font-size: 40px;
+}
+
+.about-me-sec p{
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 100;
+    padding-bottom: 100px;
+    color: #18191F;
+}
+
 
