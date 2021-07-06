@@ -132,3 +132,22 @@ span{
 }
 
 
+.social-media{
+    margin: 0% 5% 0% 5%;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
+
+.social-style{
+    
+    padding: 5% 0% 0% 10%;
+    width: 33%;
+}
+
+.social-media h1{
+    font-size: 48px;
+    line-height: 10px;
+}
+
+
